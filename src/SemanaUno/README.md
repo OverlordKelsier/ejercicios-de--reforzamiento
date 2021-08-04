@@ -1,6 +1,6 @@
 # Ejercicios de la primera semana
 
-Estos programas componen el tema de Encapsulamiento y Herencia del Tema 2 <br>
+Estos programas componen el tema de Encapsulamiento y Herencia del Tema 2, Subtema 2.1 <br>
 Contenido: <br>
 
 "Top" es un ejercicio para confirmar cual era el problema para compilar el mismo programa. <br>
